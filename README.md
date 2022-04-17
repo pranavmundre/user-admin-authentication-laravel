@@ -1,4 +1,4 @@
-# user-admin-authentication-laravel
+# user-admin-authentication-laravel-8
 
 this is the core project for user and admin authentication 
 

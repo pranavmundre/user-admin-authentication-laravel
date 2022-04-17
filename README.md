@@ -2,7 +2,7 @@
 
 this is the core project for user and admin authentication 
 
-
+```
 to add admin use tinker 
 
 $ php artisan tinker 
@@ -18,5 +18,6 @@ $ php artisan tinker
 => "$2y$10$FDu7iDKnfta6E/m1yZnDxOHINoPtTym89Z49SEDPe5ks33eJ0LeNW"
 >>> $model->save();
 
+```
 
 Thank you.
